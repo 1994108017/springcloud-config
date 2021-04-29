@@ -30,7 +30,6 @@ spring:
           #- Host=**.xxx.com
           #- Method=GET
 
-
 eureka:
   instance:
     hostname: cloud-gateway-service
